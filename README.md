@@ -1,7 +1,7 @@
 # ¡Bienvenido a **Moneky**! 🐒
 
 <div align="center">
-  <img src="monekyLogo.png" alt="Logo del Juego" width="300"/>
+  <img src="monekyLogo.png" alt="Logo del Juego" width="800"/>
 </div>
 
 
