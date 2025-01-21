@@ -1,19 +1,19 @@
-# ¡Bienvenido a **Monkey**! 🐒
+# ¡Bienvenido a **Moneky**! 🐒
 
-![Logo del Juego](LogoMonkey.png)
+![Logo del Juego](LogoMoneky.png)
 
 [![GitHub followers](https://img.shields.io/github/followers/sofiamartinez?style=social)](https://github.com/SofiaMartinez23)
 
-## Sobre **Monkey**
+## Sobre **Moneky**
 
 - 🐒 **Juego de Aventura para Móviles**  
-  **Monkey** es un juego de aventuras y plataformas desarrollado para Android utilizando **libGDX**. En este juego, los jugadores asumen el control de un mono ágil que debe superar diversos obstáculos y recoger frutas a lo largo de varios niveles.
+  **Moneky** es un juego de aventuras y plataformas desarrollado para Android utilizando **libGDX**. En este juego, los jugadores asumen el control de un mono ágil que debe superar diversos obstáculos y recoger frutas a lo largo de varios niveles.
 
 - 🎮 **Funcionalidad del Juego**  
   El objetivo principal del juego es guiar al mono a través de niveles desafiantes, evitando obstáculos y recogiendo frutas para aumentar su puntuación. Cada nivel presenta una variedad de enemigos, plataformas móviles y trampas que harán que cada partida sea única y emocionante.
 
 - 📱 **Desarrollo con Android Studio**  
-  **Monkey** fue creado con **Android Studio**, utilizando **libGDX** como framework principal para desarrollar la lógica del juego. La interfaz de usuario está diseñada para ser simple y fácil de usar, permitiendo una experiencia de juego fluida en dispositivos Android.
+  **Moneky** fue creado con **Android Studio**, utilizando **libGDX** como framework principal para desarrollar la lógica del juego. La interfaz de usuario está diseñada para ser simple y fácil de usar, permitiendo una experiencia de juego fluida en dispositivos Android.
 
 - 🎨 **Diseño de Assets**  
   Todos los assets del juego fueron creados completamente a mano, incluyendo personajes, objetos y animaciones. Los únicos assets que no fueron creados a mano son los fondos de los niveles, los cuales fueron seleccionados cuidadosamente para complementar la atmósfera del juego.
