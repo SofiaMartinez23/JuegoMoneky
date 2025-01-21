@@ -1,6 +1,8 @@
 # ¡Bienvenido a **Moneky**! 🐒
 
-![Logo del Juego](LogoMoneky.png)
+<div align="center">
+  <img src="assets/menu.png" alt="Logo del Juego" width="300"/>
+</div>
 
 
 ## Sobre **Moneky**
