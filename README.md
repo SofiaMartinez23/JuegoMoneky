@@ -2,7 +2,6 @@
 
 ![Logo del Juego](LogoMoneky.png)
 
-[![GitHub followers](https://img.shields.io/github/followers/sofiamartinez?style=social)](https://github.com/SofiaMartinez23)
 
 ## Sobre **Moneky**
 
